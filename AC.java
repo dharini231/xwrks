@@ -1,9 +1,9 @@
 package com.xworks.oops;
 
 public class AC {
-	String colour;
+	String color;
 	int price;
-	int size;
+	int capacity;
 	String model;
 	public void cool() {
 	System.out.println("cooling");
